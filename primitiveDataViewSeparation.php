@@ -9,6 +9,11 @@
   <?php endforeach; ?>
 </ul>
 
+
+
+
+
+
 // Data and View seperated.
 <ul>
   <?php foreach($tasks as $task) : ?>
